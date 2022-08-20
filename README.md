@@ -27,4 +27,4 @@ The interface
 
 ### License
 
-GNU General Public License v3.0 T&C applies to this repository content.
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) if not stated otherwise.
