@@ -13,7 +13,7 @@ Revision: 0.3
 
 The schematic diagram is available in the /Docs sub-folder.
 
-If you are interested in hardware's tests and how it works, have a look there: [YouTube](https://youtu.be/7duh5zHNvDc)
+If you are interested in hardware's tests and how it works, have a look there: [YouTube](https://www.youtube.com/watch?v=rLYKKHdo0hs&list=PLeEjSz45t7SqoGKl9JK8sAxdHZE_xIYfj&index=1)
 
 ### Photos
 
