@@ -7,6 +7,7 @@ Date: 20/08/2022
 
 Revision: 0.3
 
+![3D model](/Docs/ZX_BTaudio_II_04.png)
 
 ### Features
 
@@ -16,9 +17,9 @@ If you are interested in hardware's tests and how it works, have a look there: [
 
 ### Photos
 
-Prototype board (rev. 0.1)
+The interface
 
-Board (rev. 0.2)
+![Case](/Docs/2021-10-04.jpg)
 
 ### Warranty
 
